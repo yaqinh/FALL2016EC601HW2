@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">PokeVision</string>
-    <string name="edit_username">username</string>
-    <string name="edit_password">password</string>
-    <string name="button_send">Login</string>
-</resources>
